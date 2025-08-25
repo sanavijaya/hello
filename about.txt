@@ -1,3 +1,4 @@
-sana vijaya
+Sana Vijaya
 Bsc Datascience
+
 I have learnt how to connect a new file in github
